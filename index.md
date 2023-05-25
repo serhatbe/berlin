@@ -1,6 +1,6 @@
 # Welcome to Website
 
-I'm a Software developer in Berlin, Germany. I like free software, open data and keeping things simple.
+I like free software, open data and keeping things simple.
 
 <!-- Contact me via <a href="mailto:karl@karl.berlin" rel="me">email</a> or find me on
 <a href="https://github.com/karlb" rel="me">GitHub</a>,
